@@ -19,4 +19,7 @@ Embora seja possível realizar tarefas semelhantes no Word, achei empolgante cri
 
 # 📕 License
 
+Documention and application under development.
+Released in 2023. This project is under the [MIT license](https://github.com/icarosun/GeradorDeEtiqueta/blob/master/LICENSE).
+
 Made with ☀️ by [Ícaro Pereira](https://github.com/icarosun) 🎈🚀
